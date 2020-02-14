@@ -3,6 +3,7 @@
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <body>
+<h2>Tomcat 1!</h2>
 <h2>Hello World!</h2>
 
 springmvc上传文件
